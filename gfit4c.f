@@ -9,8 +9,12 @@ C
 C     A. Aguado, C. Tablero, M. Paniagua, Comput. Phys. Commun. 108(1998) 
 C                                         259-266.
 C
-C     A. Aguado, C. Tablero, M. Paniagua, Comput. Phys. Commun. XXX(2000)
-C                                         XXX-XXX. (The paper corresponding to
+C     A. Aguado, C. Tablero, M. Paniagua, Comput. Phys. Commun. 134(2001)
+C                                         97-109. (One of the paper corresponding to
+C                                         the documentation of this program).
+C
+C     A. Aguado, C. Tablero, M. Paniagua, Comput. Phys. Commun. 140(2001)
+C                                         412-417. (One of the paper corresponding to
 C                                         the documentation of this program).
 ********************************************************************************
       implicit real*8 (a-h,o-z)
