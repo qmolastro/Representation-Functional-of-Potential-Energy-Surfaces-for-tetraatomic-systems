@@ -1,0 +1,27 @@
+The GFIT4C program (CPC program library catalogue number: ADNB) consists of the 
+following files:
+
+README:         This file.
+
+gfit4c.f:       Fortran code file.
+
+dimensions.inc: Parameter instructions to be included in compilation time.
+
+gfit4c.sh:      driver exec file in unix shell format. It compiles gfit4c.f 
+                and runs the test run.
+
+gfit4c.inp:     the test run input file.
+
+gfit4c.out:     the test run output file.
+
+fitout.f:       the test run output fortran program file.
+
+
+All the files are given in UNIX tar format as a single file named "gfit4c.tar", 
+to extract them in a single directory execute the "tar" command at your own
+UNIX installation (example: "tar -xvf gfit4c.tar"). Once all the files are 
+extracted, change to executable the file "gfit4c.sh" ("chmod +x gfit4c.sh") and
+execute it by typing its name ("gfit4c.sh") to run the test (it will take several
+CPU hours). You can compare the output produced at your installation ("output" 
+file) with the "gfit4c.out" file.
+
