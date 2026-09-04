@@ -1,66 +1,66 @@
 
  diatomics fit diat12
  input parameters           87           6   1.6579459500000000        1.9268124000000000       -1.0000000000000000     
- number of FAS=            6
+ number of SAF=            6
  rms=dsqrt(sum(del**2)/n)=     0.000195 u.a.        0.1223 kcal/mol  emax =     0.227865 kcal/mol
    1.6579459499999998        1.9268124000000000     
 
  diatomics fit diat13
  input parameters           87           6   1.6579459500000000        1.9268124000000000       -1.0000000000000000     
- number of FAS=            6
+ number of SAF=            6
  rms=dsqrt(sum(del**2)/n)=     0.000195 u.a.        0.1223 kcal/mol  emax =     0.227865 kcal/mol
    1.6579459499999998        1.9268124000000000     
 
  diatomics fit diat14
  input parameters           87           6   1.6579459500000000        1.9268124000000000       -1.0000000000000000     
- number of FAS=            6
+ number of SAF=            6
  rms=dsqrt(sum(del**2)/n)=     0.000195 u.a.        0.1223 kcal/mol  emax =     0.227865 kcal/mol
    1.6579459499999998        1.9268124000000000     
 
  diatomics fit diat23
  input parameters           87           6   1.6579459500000000        1.9268124000000000       -1.0000000000000000     
- number of FAS=            6
+ number of SAF=            6
  rms=dsqrt(sum(del**2)/n)=     0.000195 u.a.        0.1223 kcal/mol  emax =     0.227865 kcal/mol
    1.6579459499999998        1.9268124000000000     
 
  diatomics fit diat24
  input parameters           87           6   1.6579459500000000        1.9268124000000000       -1.0000000000000000     
- number of FAS=            6
+ number of SAF=            6
  rms=dsqrt(sum(del**2)/n)=     0.000195 u.a.        0.1223 kcal/mol  emax =     0.227865 kcal/mol
    1.6579459499999998        1.9268124000000000     
 
  diatomics fit diat34
  input parameters           87           6   1.6579459500000000        1.9268124000000000       -1.0000000000000000     
- number of FAS=            6
+ number of SAF=            6
  rms=dsqrt(sum(del**2)/n)=     0.000195 u.a.        0.1223 kcal/mol  emax =     0.227865 kcal/mol
    1.6579459499999998        1.9268124000000000     
 
  triatomics fit tri123
- input parameters          772           5  0.15618899999999999        1.5000000000000000        1.2474470000000000        0.0000000000000000     
- number of FAS=           40
+ input parameters          772           5  0.15618899999999999        1.5000000000000000        1.2474470000000000        6.9303500929467412E-310
+ number of SAF=           40
   0.15619000000000002        1.5000009999999999        1.2474469999999998     
  rms=dsqrt(sum(del**2)/n)=     0.000900 u.a.        0.5650 kcal/mol  emax =     5.204986 kcal/mol
 
  triatomics fit tri124
- input parameters          772           5  0.15618899999999999        1.5000000000000000        1.2474470000000000        0.0000000000000000     
- number of FAS=           40
+ input parameters          772           5  0.15618899999999999        1.5000000000000000        1.2474470000000000        6.9303500929467412E-310
+ number of SAF=           40
   0.15619000000000002        1.5000009999999999        1.2474469999999998     
  rms=dsqrt(sum(del**2)/n)=     0.000900 u.a.        0.5650 kcal/mol  emax =     5.204986 kcal/mol
 
  triatomics fit tri134
- input parameters          772           5  0.15618899999999999        1.5000000000000000        1.2474470000000000        0.0000000000000000     
- number of FAS=           40
+ input parameters          772           5  0.15618899999999999        1.5000000000000000        1.2474470000000000        6.9303500929467412E-310
+ number of SAF=           40
   0.15619000000000002        1.5000009999999999        1.2474469999999998     
  rms=dsqrt(sum(del**2)/n)=     0.000900 u.a.        0.5650 kcal/mol  emax =     5.204986 kcal/mol
 
  triatomics fit tri234
- input parameters          772           5  0.15618899999999999        1.5000000000000000        1.2474470000000000        0.0000000000000000     
- number of FAS=           40
+ input parameters          772           5  0.15618899999999999        1.5000000000000000        1.2474470000000000        6.9303500929467412E-310
+ number of SAF=           40
   0.15619000000000002        1.5000009999999999        1.2474469999999998     
  rms=dsqrt(sum(del**2)/n)=     0.000900 u.a.        0.5650 kcal/mol  emax =     5.204986 kcal/mol
 
  tetratomic fit tt1234
  input parameters          838           5  0.48413000000000000        7.5359999999999996E-002  0.15340999999999999        1.0861900000000000        1.0432500000000000        1.4136000000000000        0.0000000000000000     
- number of FAS=          241
+ number of SAF=          241
   0.48413099999999998        7.5360999999999997E-002  0.15339145212054353        1.0861909999999999        1.0432501722644385        1.4136000000000000     
  rms=dsqrt(sum(del**2)/n)=     0.000310 u.a.        0.1943 kcal/mol  emax =     0.999254 kcal/mol
